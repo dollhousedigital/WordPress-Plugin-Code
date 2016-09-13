@@ -1,4 +1,3 @@
-/*--add to fintions.php--*/
+/*--add to functions.php--*/
 
-// Remove WooCommerce Updater
 remove_action('admin_notices', 'woothemes_updater_notice');
