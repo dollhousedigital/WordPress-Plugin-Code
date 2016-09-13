@@ -1,0 +1,14 @@
+/*--TABLEPRESS BACKGROUND COLOUR--*/
+
+.tablepress thead th,
+.tablepress tfoot th {
+	background-color: #ff0000;
+}
+
+/*--change the hover color when sorting, and the background color of the column that is currently sorted--*/
+
+.tablepress thead .sorting_asc,
+.tablepress thead .sorting_desc,
+.tablepress thead .sorting:hover {
+	background-color: #00ff00;
+}
