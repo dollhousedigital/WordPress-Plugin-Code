@@ -1,0 +1,7 @@
+/*--TABLEPRESS VERTICAL LINES--*/
+/*--Add to TablePress Custom CSS--*/
+
+.tablepress th,
+.tablepress td {
+	border: 1px solid #cccccc;
+}
