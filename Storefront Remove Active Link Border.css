@@ -1,5 +1,0 @@
-/*--REMOVE ACTIVE LINK BORDER--*/
-a:focus,
-.focus a {
-	outline: none !important;
-}
